@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yaj457
-- 👀 I’m interested in Python Coding and Machine Learning with particular focus on forecasting trends/timeseries
+- 👀 I’m interested in Python Coding and Machine Learning with particular focus on forecasting trends/timeseries and quantifying riskiness
 
 <!---
 yaj457/yaj457 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
